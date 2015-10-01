@@ -49,5 +49,10 @@
 		"pregunta" 	: "¿Cual de estas hace parte de las estrategias de la denominada guerra comercial?", 
 		"opciones"	: ["Realizar Alianzas estrategicas", "Lograr Seguridad", "Esperar movimientos del mercado", "Analizar la competencia"], 
 		"correcta"	: 2	
+	},
+	{
+		"pregunta" 	: "", 
+		"opciones"	: ["", "", "", ""], 
+		"correcta"	: 3	
 	}
 ]
