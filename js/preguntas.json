@@ -1,0 +1,54 @@
+[
+	{},{},
+	{
+		"pregunta" 	: "¿Con qué termino se relaciona más la palabra proactivo?", 
+		"opciones"	: ["Iniciativa", "Perseverancia", "Intentos", "Puntualidad"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "¿Què es una linea de negocio?", 
+		"opciones"	: ["fanquicias", "intereses de la empresa", "puestos de venta", "enfoques"], 
+		"correcta"	: 4	
+	},
+	{
+		"pregunta" 	: "¿A què es igual la innovaciòn?", 
+		"opciones"	: ["Inventos", "Creatividad aplicada", "Capacidad proactiva", "Posicion competitiva"], 
+		"correcta"	: 2	
+	},
+	{
+		"pregunta" 	: "¿Cùal de estos es un indicador no cuantificable?", 
+		"opciones"	: ["Costos generales y administrativos", "Rentabilidad", "Numero de usuarios", "Satisfaccion de grupos de interes"], 
+		"correcta"	: 4	
+	},
+	{
+		"pregunta" 	: "¿Còmo termina la oraciòn: la mejor forma de tener una buena idea es contar con una buena cantidad de _______?", 
+		"opciones"	: ["Personas", "Ideas", "Estrategias", "Planeaciones"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "¿Què se considera en el mercado como exclusivo?", 
+		"opciones"	: ["Competitivo", "Novedoso", "Diferenciaciòn", "Innovaciòn"], 
+		"correcta"	: 3	
+	},
+	{
+		"pregunta" 	: "¿Cùal de estos no es un elemento de la estrategia de negocio? ", 
+		"opciones"	: ["Determinar valores", "Identificar acciones estrategicas", "Indicadores criticos", "Cultura"], 
+		"correcta"	: 1	
+	},
+	{
+		"pregunta" 	: "¿A qué hacen referencia las fuerzas externas?", 
+		"opciones"	: ["Los productos", "Variacion en el mercado", "Productividad", "Activos"], 
+		"correcta"	: 2	
+	},
+	{
+		"pregunta" 	: "¿Para que sirve la fase de diseño de la estrategia?", 
+		"opciones"	: ["Para mostrar indices de evaluacion", "Para hacer planes", "Para generar una estrategia", "Para desarrollar escenarios especificos"], 
+		"correcta"	: 4	
+	},
+	{
+		"pregunta" 	: "¿Cual de estas hace parte de las estrategias de la denominada guerra comercial?", 
+		"opciones"	: ["Realizar Alianzas estrategicas", "Lograr Seguridad", "Esperar movimientos del mercado", "Analizar la competencia"], 
+		"correcta"	: 2	
+	},
+
+]
