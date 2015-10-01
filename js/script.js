@@ -50,7 +50,7 @@ $(function()
     //Para cargar la pregunta...
     var cargarPregunta = function()
     {
-        cuentaTiempo = 15;
+        cuentaTiempo = 40;
         tiempo = setInterval(function()
         {
             cuentaTiempo--;
