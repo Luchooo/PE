@@ -7,7 +7,7 @@
 	},
 	{
 		"pregunta" 	: "¿Què es una linea de negocio?", 
-		"opciones"	: ["fanquicias", "intereses de la empresa", "puestos de venta", "enfoques"], 
+		"opciones"	: ["Fanquicias", "Intereses de la empresa", "Puestos de venta", "Enfoques"], 
 		"correcta"	: 4	
 	},
 	{
